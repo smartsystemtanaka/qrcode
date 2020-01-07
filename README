@@ -1,0 +1,4 @@
+Install: yarn install
+Start server: yarn start
+Run on android device/avd: yarn android
+Run on IOS: yarn ios
